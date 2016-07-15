@@ -1,7 +1,10 @@
 namespace ZedGraph
 {
     using System.Drawing;
-
+    
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IValuesToolTip
     {
         /// <summary>

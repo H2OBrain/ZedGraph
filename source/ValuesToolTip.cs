@@ -4,6 +4,9 @@ namespace ZedGraph
     using System.Drawing;
     using System.Windows.Forms;
 
+    /// <summary>
+    /// 
+    /// </summary>
     public class ValuesToolTip : IValuesToolTip
     {
         #region Fields

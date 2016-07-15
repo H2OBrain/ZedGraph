@@ -19,19 +19,6 @@ Fixed an issue with the scales that caused very small ranges to not display the 
     <language />
   </metadata>
   <files>
-    <file src="bin\Release\de\ZedGraph.resources.dll" target="lib\net35-Client\de\ZedGraph.resources.dll" />
-    <file src="bin\Release\es\ZedGraph.resources.dll" target="lib\net35-Client\es\ZedGraph.resources.dll" />
-    <file src="bin\Release\fr\ZedGraph.resources.dll" target="lib\net35-Client\fr\ZedGraph.resources.dll" />
-    <file src="bin\Release\hu\ZedGraph.resources.dll" target="lib\net35-Client\hu\ZedGraph.resources.dll" />
-    <file src="bin\Release\it\ZedGraph.resources.dll" target="lib\net35-Client\it\ZedGraph.resources.dll" />
-    <file src="bin\Release\ja\ZedGraph.resources.dll" target="lib\net35-Client\ja\ZedGraph.resources.dll" />
-    <file src="bin\Release\pt\ZedGraph.resources.dll" target="lib\net35-Client\pt\ZedGraph.resources.dll" />
-    <file src="bin\Release\ru\ZedGraph.resources.dll" target="lib\net35-Client\ru\ZedGraph.resources.dll" />
-    <file src="bin\Release\sk\ZedGraph.resources.dll" target="lib\net35-Client\sk\ZedGraph.resources.dll" />
-    <file src="bin\Release\sv\ZedGraph.resources.dll" target="lib\net35-Client\sv\ZedGraph.resources.dll" />
-    <file src="bin\Release\tr\ZedGraph.resources.dll" target="lib\net35-Client\tr\ZedGraph.resources.dll" />
-    <file src="bin\Release\zh-cn\ZedGraph.resources.dll" target="lib\net35-Client\zh-cn\ZedGraph.resources.dll" />
-    <file src="bin\Release\zh-tw\ZedGraph.resources.dll" target="lib\net35-Client\zh-tw\ZedGraph.resources.dll" />
     <file src="bin\Release\ZedGraph.dll" target="lib\net35-Client\ZedGraph.dll" />
     <file src="bin\Release\ZedGraph.XML" target="lib\net35-Client\ZedGraph.XML" />
     <file src="License-LGPL.txt" target="content\License-LGPL.txt" />
